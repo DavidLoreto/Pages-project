@@ -1,5 +1,6 @@
-env/
-db.sqlite3
-pages/__pycache__/
-pages_project/__pycache__/
 manage.py
+db.sqlite3
+env/
+pages/__pycache__/
+pages/migrations/__pycache__/
+pages_project/__pycache__/
